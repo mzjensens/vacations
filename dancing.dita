@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Dancing">
+    <title>How to dance with a small person</title>
+    <shortdesc>Dancing is fun, but dancing with a short person can be tricky for both parties. Here
+        are some simple steps to help them out and make the experience more enjoyable for both of
+        you.</shortdesc>
+    <taskbody>
+        <prereq id="prereq_yqk_x3t_bdc">
+            <ul id="ul_n2p_z3t_bdc">
+                <li>A friend shorter than 5' 2"</li>
+                <li>A good pair of dancing shoes</li>
+            </ul>
+        </prereq>
+        <context>
+            <p/>
+        </context>
+        <steps>
+            <step>
+                <cmd>Compliment the short friend on their attire.</cmd>
+                <info><note id="note_dw4_mjt_bdc" type="important"/>Keeping the short friend in a
+                    good mood is recommended for the duration of the dance</info>
+            </step>
+            <step>
+                <cmd>Position your arms in a way that </cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>
